@@ -10,5 +10,8 @@ O projeto foi desenvolvido utilizando as seguintes tecnologias:<br>
     <img align="center" alt="JS" height="50" width="50" src="https://cdn.iconscout.com/icon/free/png-256/javascript-2752148-2284965.png">&emsp;JavaScript
 </div> 
 
+### Confira: <a href="https://projeto-urna.vercel.app/">Seu voto é Secreto!!</a>
+
+
 ## Créditos <a href="https://b7web.com.br/fullstack/">B7WEB</a> &copy; 
 ### projeto aplicado durante o curso Fullstack JS - Viviane Silva
