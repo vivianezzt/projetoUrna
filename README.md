@@ -12,6 +12,10 @@ O projeto foi desenvolvido utilizando as seguintes tecnologias:<br>
 
 ### Confira: <a href="https://projeto-urna.vercel.app/">Seu voto é Secreto!!</a>
 
+### Escolha seu candidato: 
+- Prefeito: (99) Ciclano da Silva, (84) Zulano Souza
+- Vereador: (77222) Beltrano da Silva, (38111) Fulano de tal
+
 
 ## Créditos <a href="https://b7web.com.br/fullstack/">B7WEB</a> &copy; 
 ### projeto aplicado durante o curso Fullstack JS - Viviane Silva
